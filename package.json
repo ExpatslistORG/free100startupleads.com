@@ -1,0 +1,15 @@
+{
+  "name": "@expatslistorg/free100startupleads",
+  "version": "1.0.0",
+  "description": "Claude skill: how to use Free100StartupLeads, 2M+ startup and scaleup contacts.",
+  "homepage": "https://free100startupleads.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ExpatslistORG/free100startupleads.com"
+  },
+  "files": ["SKILL.md", "README.md"],
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
